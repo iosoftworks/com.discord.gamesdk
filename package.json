@@ -16,5 +16,12 @@
   },
   "bugs": {
     "url": "https://github.com/discord/gamesdk-and-dispatch"
-  }
+  },
+  "contributors": [
+    {
+      "name" : "Joe van der Zwet",
+      "email" : "me@joezwet.me",
+      "url" : "hhttps://joezwet.me"
+    }
+  ]
 }
