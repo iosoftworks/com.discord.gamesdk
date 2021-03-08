@@ -4,6 +4,7 @@
   "displayName": "Discord Game Sdk",
   "description": "The Discord Game Sdk, repackaged for Unity.",
   "homepage": "https://discordapp.com/developers/docs/game-sdk/sdk-starter-guide",
+  "repository": "github:iosoftworks/com.discord.gamesdk",
   "publishConfig": {
     "registry": "https://upr.iosoft.works"
   },
