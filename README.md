@@ -27,16 +27,13 @@ or just modify your `manifest.json`:
 ```json
 {
   "dependencies": {
-    ...
     "com.discord.gamesdk": "3.1.0"
   },
   "scopedRegistries": [
     {
       "name": "io Softworks Registry",
       "url": "https://upr.iosoft.works",
-      "scopes": [
-        "com.discord"
-      ]
+      "scopes": ["com.discord"]
     }
   ]
 }
